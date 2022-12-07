@@ -51,6 +51,7 @@ section {
 
 #pause {
   display: none;
+  margin-right: 15px;
 }
 .starttext {
   display: none;
